@@ -102,3 +102,4 @@ out/
 | `ssim ≈ 1.0`, `change_ratio ≈ 0.0` | 거의 동일한 도면 (수정 없음) 느낌 |
 | `ssim < 0.9`, `change_ratio > 0.03` | 변경이 많은 도면 (수정 다수) 느낌 |
 | `ssim` 높지만 `change_ratio` 높음 | 작은 위치 변화/기울기 차이로 인한 오탐 가능 → alignment 개선 필요 느낌 |
+<img width="833" height="260" alt="image" src="https://github.com/user-attachments/assets/40ac8dc0-2127-4a1c-a6f9-7e903058e626" />
